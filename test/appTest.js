@@ -1,3 +1,4 @@
+//npm test
 const assert = require('chai').assert;
 //const sayHello = require('../app').sayHello;
 //const multiplyNumbers = require('../app').multiplyNumbers;
